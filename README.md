@@ -66,7 +66,9 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedece65&langs_count=6&theme=nord_bright&layout=compact&hide_border=true" alt="dedece65 :: Top Langs" />
           </a>
        </p>
-          ![dedece65's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dedece65&theme=vue-dark&hide_border=true)
+       <p align="center">
+          ![dedece65's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dedece65&theme=vue-dark&hide_border=true)         
+       </p>
      <br>
   </div>    
 
