@@ -75,6 +75,6 @@
 <h2 align="center"> 📈 Activity Graph </h2>
 <div align="center">
 
-  ![dedece65 Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dedece65&theme=nord_bright)
+  ![dedece65 Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dedece65&theme=transparent)
   
 </div>
