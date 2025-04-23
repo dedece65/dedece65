@@ -58,16 +58,16 @@
       <br/>
         <p align="center">
           <a href="https://github.com/dedece65/">
-            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dedece65&show_icons=true&theme=nord_bright&hide_border=true" />
+            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dedece65&show_icons=true&theme=transparent&hide_border=true" />
           </a>
         </p>
         <p align="center">
           <a href="https://github.com/dedece65/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedece65&langs_count=6&theme=nord_bright&layout=compact&hide_border=true" alt="dedece65 :: Top Langs" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedece65&langs_count=6&theme=transparent&layout=compact&hide_border=true" alt="dedece65 :: Top Langs" />
           </a>
        </p>
        <p align="center">
-          ![dedece65's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dedece65&theme=vue-dark&hide_border=true)         
+          hhh
        </p>
      <br>
   </div>    
