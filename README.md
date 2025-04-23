@@ -66,9 +66,6 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedece65&langs_count=6&theme=transparent&layout=compact&hide_border=true" alt="dedece65 :: Top Langs" />
           </a>
        </p>
-       <p align="center">
-          hhh
-       </p>
      <br>
   </div>    
 
