@@ -16,7 +16,7 @@
 </p>
 
 <!-- Contact Section -->
-<h2 align="center">😎 you can reach me by:</h2>
+<h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/daniel-del-castillo/" target="blank"><img align="center"
