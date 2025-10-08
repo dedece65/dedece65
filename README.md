@@ -75,5 +75,6 @@
 <div align="center">
 
   ![dedece65 Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dedece65&theme=transparent)
+  ![Profile views](https://counter.kuber.studio/dedece65/dark/count.svg)
   
 </div>
