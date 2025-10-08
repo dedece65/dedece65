@@ -75,5 +75,6 @@
 <div align="center">
 
   ![dedece65 Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dedece65&theme=transparent)
+  ![Contador de visitas de perfil](https://komarev.com/ghpv/?username=dedece65&color=dc143c&abbreviated=true)
   
 </div>
